@@ -145,3 +145,8 @@ li{
     height: 30px;
     width: 30px;
 }
+.sidebar-bottom{
+    height: 30px;
+    margin-top: 70px;
+    gap: 20px;
+}
